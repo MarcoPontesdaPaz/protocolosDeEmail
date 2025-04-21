@@ -47,5 +47,21 @@
 									margin-left: 60px;
 									margin-right: 60px;
 								}
+								
+		.principal {
+		  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+		  padding: 20px;
+		  background-color: white;
+		}								
+								
+		a:hover {
+		  color: #0077cc;
+		  text-decoration: underline;
+		}
+
+		img:hover {
+		  transform: scale(1.1);
+		  transition: 0.3s;
+		}								
 		
 </style>
