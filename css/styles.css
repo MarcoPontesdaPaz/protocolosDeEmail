@@ -1,0 +1,51 @@
+<style>
+        header 	{ background-color: lightblue; padding: 10px; text-align: center; }
+        nav 	{ background-color: lightgreen; padding: 10px; }
+        main 	{ padding: 10px; }
+        aside 	{ background-color: lightcoral; padding: 10px; }
+        footer 	{ background-color: lightgray; padding: 8px; text-align: left; }
+
+		.minha_fonte_ARIAL		{	font-family: Arial, sans-serif;     
+								}
+
+		.minha_fonte			{	font-family: Arial, sans-serif;     
+									font-size: 16px;
+								}
+								
+		.minha_fonte_14			{	font-family: Arial, sans-serif;     
+									font-size: 30x;
+								}								
+
+		.minha_fonte_16			{	font-family: Arial, sans-serif;     
+									font-size: 16px;
+								}
+		
+		.minha_fonte_16_Bold	{	font-family: Arial, sans-serif;     
+									font-size: 16px;
+									font-weight: bold;
+								}
+
+		.indice 				{	font-family: Arial;     
+									margin-left: 20px; 		/* Espaço à esquerda */
+									margin-right: 20px; 	/* Espaço à direita */
+									padding-left: 10px; 	/* Espaço interno à esquerda */
+									padding-right: 10px; 	/* Espaço interno à direita */
+								}								
+								
+		.indiceInterno			{	font-family: Arial;     
+									margin-left: 60px; 		/* Espaço à esquerda */
+									margin-right: 60px; 	/* Espaço à direita */
+									padding-left: 10px; 	/* Espaço interno à esquerda */
+									padding-right: 10px; 	/* Espaço interno à direita */
+								}			
+
+
+		.iframe 				{	width: 80%;
+									height: 400px;
+									border: 0px solid #ccc;
+									background-color: rgb(255, 255, 255);
+									margin-left: 60px;
+									margin-right: 60px;
+								}
+		
+</style>
